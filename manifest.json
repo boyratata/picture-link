@@ -1,0 +1,11 @@
+{
+    "name": "Picture Links",
+    "description": "Allows you to click on profile pictures and banners ( forked from rico's picture link plugin )",
+    "authors": [
+      { "name": "awkoro__", "id": "967379106381578301" }
+    ],
+    "main": "index.js",
+    "vendetta": {
+      "icon": "ic_link"
+    }
+  }
